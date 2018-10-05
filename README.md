@@ -1,5 +1,5 @@
-ShopGo Core
-===========
+ShopGo Core `[UNMAINTAINED]`
+============================
 
 
 #### Contents
